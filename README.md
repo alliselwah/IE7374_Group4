@@ -1,2 +1,7 @@
-# IE7374_Group4
-IE 7374: Generative AI Group (4) Project
+# IE 7374 Group Project
+
+Group 4 Members: 
+- Akshit Sharma
+- Anna Grondolsky
+- Allison Selwah
+

@@ -1,2 +1,2 @@
-# IE7374_Grou4
+# IE7374_Group4
 IE 7374: Generative AI Group (4) Project

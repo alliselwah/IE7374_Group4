@@ -52,7 +52,8 @@ df = pd.read_csv('recipenlg.csv')
 # Display sample recipe
 print(df.loc[0, 'title'])
 print(df.loc[0, 'ingredients'])
-print(df.loc[0, 'instructions'])'''
+print(df.loc[0, 'instructions'])
+```
 
 ---
 

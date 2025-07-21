@@ -57,3 +57,6 @@ Dependencies can be installed using the following command:
 ```bash
 pip install tensorflow pandas numpy scikit-learn matplotlib kaggle
 ```
+## Code Location
+
+We are collaboratively working on the script via Google Colab, which can be found here: [IE7374_RecipeGenerator.ipynb](https://colab.research.google.com/drive/1BR2h2OoBxwQIg1SRGPQ8TeECa1svUulH?usp=sharing)

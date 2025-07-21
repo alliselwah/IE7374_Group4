@@ -37,7 +37,7 @@ The model uses a Seq2Seq architecture built with LSTM layers:
 
 The model is evaluated using:
 - Training and validation loss
-- (Optional) BLEU score
+- BLEU score
 - Manual inspection of generated recipe instructions
 
 Several sample generations are included to illustrate the model’s ability to produce multi-step instructions that are syntactically fluent and semantically relevant.

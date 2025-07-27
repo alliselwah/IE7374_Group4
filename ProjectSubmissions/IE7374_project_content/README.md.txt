@@ -8,6 +8,8 @@ Natural Language Processing (NLP), with a specific focus on Controlled Text Gene
 Dataset Description
 For this project, we primarily utilize the RecipeNLG Dataset, publicly available on Kaggle. This extensive dataset comprises approximately two million recipes, each richly detailed with a title, a list of ingredients (extracted as Named Entities, 'NER'), and comprehensive cooking instructions. Our focus is exclusively on these textual components, which are crucial for training generative language models. The data is provided in a convenient CSV format, facilitating straightforward parsing and manipulation within our data pipeline.
 
+DOWNLOAD LINK DUE TO FILE BEING TOO LARGE: https://www.kaggle.com/datasets/saldenisov/recipenlg
+
 To get started, you must download full_dataset.csv from the RecipeNLG Kaggle page and place it into the project-root/data/raw/ directory.
 
 Model Selection

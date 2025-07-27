@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+transformers
+torch
+tensorflow
+nltk
+PyYAML # For reading config.yaml

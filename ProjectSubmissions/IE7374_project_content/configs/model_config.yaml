@@ -1,0 +1,46 @@
+# project-root/configs/model_config.yaml
+# Configuration for model training and inference.
+# This file centralizes paths and hyperparameters for easier management.
+
+# --- General Settings ---
+# dataset_path: Relative path to the raw dataset directory from the project-root.
+#               E.g., if data is in project-root/data/raw/, use "data/raw/".
+dataset_path: "data/raw/"
+
+# output_dir: Relative path from project-root where generated inference outputs will be saved.
+#             Also used as the base for logging directories during training (e.g., ./logs).
+output_dir: "./outputs/"
+
+# model_checkpoints_dir: Base directory where fine-tuned models are saved by train.py.
+#                        Note: Specific model checkpoints (e.g., checkpoint-9) are typically
+#                        referenced directly by `fine_tuned_model_path` for inference.
+model_checkpoints_dir: "./model_checkpoints/"
+
+# --- Model Selection ---
+# model_type: Specifies the type of generative model to use for both training and inference.
+#             Choose one of: "gpt2_pt" (GPT-2 PyTorch), "gpt2_tf" (GPT-2 TensorFlow), or "bart".
+model_type: "gpt2_pt"
+
+# fine_tuned_model_path: Relative path from project-root to a specific fine-tuned model checkpoint.
+#                        This should point directly to the folder containing model weights (e.g., 'pytorch_model.bin').
+#                        Example for GPT-2 PyTorch: "model_checkpoints/gpt2-pytorch/checkpoint-9/"
+#                        Set to 'null' (without quotes) if you want to use the base pre-trained model for inference.
+fine_tuned_model_path: "./model_checkpoints/gpt2-pytorch/checkpoint-9/"
+
+# --- Training Parameters (Used by train.py) ---
+# training_epochs: The total number of full passes through the training dataset during fine-tuning.
+training_epochs: 3
+# training_batch_size: The number of samples processed per batch during training on each device.
+training_batch_size: 4
+
+# --- Inference Parameters (Used by model_runner.py) ---
+# max_generation_length: The maximum total number of tokens (including the input prompt)
+#                        that the model will generate for a single output sequence.
+max_generation_length: 256
+# num_beams: The number of beams to use for beam search decoding during text generation.
+#            Higher values can lead to more coherent but slower outputs. Set to 1 for greedy decoding.
+num_beams: 4
+# num_inference_samples: The number of samples from the validation set to use for generating outputs.
+#                        Set to -1 or a very large number (e.g., 99999) to process all available
+#                        validation samples for inference.
+num_inference_samples: 10

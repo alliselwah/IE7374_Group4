@@ -1,0 +1,90 @@
+--- Recipe 1 ---
+Prompt: Title: Ice Cream Krispies; Ingredients: ["butter", "brown sugar", "crisp rice", "coconut", "nuts", "vanilla ice cream", "strawberries", "strawberry", "white sugar", "vanilla"]
+Generated Instructions: ]
+
+Ingredients: [1/2 cup sugar, 1/4 cup water, 2 teaspoons vanilla extract, and 1 teaspoon salt]
+
+
+Directions: In a large bowl, mix together the sugar and water. Stir in the vanilla. Add the flour, salt, baking soda and baking powder and mix well. Pour into a piping bag and refrigerate until ready to use.
+.
+Original Instructions: ["Prepare sauce: Cut strawberries in half.", "In a saucepan over medium high heat, combine strawberries, sugar and vanilla.", "Cook, stirring occasionally, until sauce thickens, about 5 minutes.", "Remove from heat.", "In a blender, puree sauce.", "Store sauce in refrigerator until ready to use.", "In large bowl, combine cereal, coconut and chopped nuts.", "Set aside.", "Combine butter and brown sugar in saucepan and warm until smooth.", "Pour over crispy rice mixture and stir.", "Place half of mixture on bottom of 9x13\" pan and level.", "Smooth softened ice cream over top.", "Pour and level remaining mixture on top and freeze.", "When ready to serve, spoon strawberry sauce & strawberry slices over individual servings."]
+--------------------------------------------------
+
+--- Recipe 2 ---
+Prompt: Title: Croatian Bean Stew With Smoked Pork Ribs; Ingredients: ["pinto beans", "bay leaf", "pork", "celery root", "parsley root", "carrot", "red pepper", "chili peppers", "tomatoes", "olive oil", "onions", "garlic", "water", "tomato puree", "salt"]
+Generated Instructions: Ingredients: [1/2 cup] olive oil, salt, pepper, garlic, onion, oregano, thyme, cayenne pepper.
+Preheat oven to 350 degrees F. In a large bowl, mix together flour, baking powder and baking soda until smooth. Add pork and cook until pork is tender, about 5 minutes. Remove pork from oven and set aside to cool completely before serving.
+Original Instructions: ["Cook beans together with a bay leaf in unsalted water for 10 minutes. Bring to the boil; reduce the flame, cover and cook for 20 minutes. Drain but keep half a cup of the cooking water.", "In the meantime, in a separate pot, cook the ribs in a lot of water. Drain when done (the meat is flaky and comes off the bone easily).", "Chop in blender celery, parsley, and a carrot. Add red pepper, chili pepper and tomatoes, pulse.", "Saute onion and garlic in olive oil, then add chopped vegetables. Saute for 2 - 3 minutes.", "Pour the water over vegetables, stir, and season with salt and bring to the boil. Reduce the flame, cook for another 10 minutes.", "Add tomato puree, water from cooking beans and beans, stir and continue cooking for 10 minutes.", "Serve with smoked ribs and a thick slice of crusty bread. If you wish, you may add some red wine vinegar."]
+--------------------------------------------------
+
+--- Recipe 3 ---
+Prompt: Title: Glazed Carrots; Ingredients: ["carrots", "butter", "brown sugar", "lemon rind"]
+Generated Instructions: Directions: Preheat oven to 350 degrees F. In a large bowl, whisk together the flour, baking powder, salt, and baking soda until smooth. Add the carrots and cook until they are soft, about 5 minutes. Remove from the oven and set aside to cool completely. Meanwhile, in a small saucepan over medium heat, melt the butter and sugar. Stir in the lemon juice and stir until the mixture is thickened. Pour the sauce over the vegetables, stirring constantly, until all of the liquid has evaporated. Cover with plastic wrap and refrigerate until ready to use. Recipe Notes: If you want to add more sugar, add a little more at a time, but don't overdo it. It will make it more difficult to mix the ingredients together.
+
+If you're not sure how to make this recipe, check out this post.
+Original Instructions: ["Cook 3 to 4 carrots; cut crosswise in 1-inch pieces.", "Add butter, brown sugar (packed) and grated lemon rind and juice to taste.", "Heat slow, stirring occasionally, until nicely glazed, about 15 minutes.", "Makes 2 to 3 servings."]
+--------------------------------------------------
+
+--- Recipe 4 ---
+Prompt: Title: Moms Pie Dough ; Ingredients: ["Flour", "Salt", "Baking Powder", "Sugar", "Crisco", "egg", "vinegar", "Water"]
+Generated Instructions: Makes about 1 cupcakes.
+Ingredients:
+1/2 cup butter, softened
+Preheat oven to 350 degrees. In a large bowl, whisk together flour, baking powder, salt, sugar, and baking soda. Mix until well combined. Pour batter into prepared cake pans. Bake for 20-25 minutes, or until cake is lightly browned. Remove from oven and cool completely before serving.
+Original Instructions: ["Mix all dry ingredients in a bowl.", "", "Add crisco and cut in with dough cutter.", "", "Mix wet ingredients adding ice water to make 1 total cup of wet ingredients.", "", "Add wet to dry, starting with 1/2 cup of wet ingredients.", "", "Make dough and chill"]
+--------------------------------------------------
+
+--- Recipe 5 ---
+Prompt: Title: Pretzel Salad Or Dessert; Ingredients: ["thin pretzels", "margarine"]
+Generated Instructions: 1/2 cup sugar
+
+1/4 cup flour
+, or more to taste
+.5 tablespoons butter, at room temperature or in a saucepan over medium-high heat. Stir in the flour, sugar, and butter. Cook, stirring occasionally, until the mixture is thickened, about 5 minutes. Remove from heat and set aside to cool. In a large bowl, whisk together the sugar and flour until smooth. Add the remaining ingredients and whisk until well combined. Pour into a piping bag and refrigerate until ready to use.
+Original Instructions: ["Mix and press in baking pan, approximately 13 x 9-inch. Bake 8 minutes at 400\u00b0. Cool."]
+--------------------------------------------------
+
+--- Recipe 6 ---
+Prompt: Title: Pasta E Fagioli; Ingredients: ["brown onion", "garlic", "Italian sausage", "tomatoes", "tomato paste", "borlotti beans", "salt", "pepper", "bay leaf", "basil", "parsley", "olive oil", "parmesan cheese"]
+Generated Instructions: Directions: Preheat oven to 350 degrees F. In a large bowl, whisk together the flour, salt, pepper, garlic, oregano, bay leaf, olive oil, tomato paste, and bay leaves. Pour the mixture into the prepared baking dish and bake for 20-25 minutes or until a toothpick inserted in the center comes out clean. Remove from the oven and allow to cool completely before serving. Notes: If you want to add more seasoning to the sauce, add a little more salt and pepper to taste.
+Original Instructions: ["Remove skin from sausage and cut into bite size pieces.", "Place 2 tablespoon of oil into a heavy base saucepan and on low heat saute chopped onion, crushed garlic and sausage until soft.", "Add diced tomato,tomato paste and a little water and simmer for 30 mintues.", "Stir occasionally and add a little extra water if necessary.", "Add beans, salt, pepper, crushed bay leaf, parsley and basil.", "Simmer for a further 20 mintues.", "Stir occasionally and add extra water if required.", "Taste the sauce and add seasonings to your taste.", "Cook fettucine as per directions.", "Drain and set aside.", "Place fettucine in a large serving bowl and add sauce.", "Toss the fettucine until it is well blended with the sauce.", "Serve with grated parmesan cheese."]
+--------------------------------------------------
+
+--- Recipe 7 ---
+Prompt: Title: Cranberry And Candied Orange Chutney ; Ingredients: ["orange with skin", "water", "sugar", "cinnamon sticks", "golden brown sugar", "dark rum", "apple cider vinegar", "ground allspice", "cranberries"]
+Generated Instructions: Ingredients: [1/2 cup sugar, 1/4 cup water]
+Directions: Combine all ingredients in a large bowl and mix well. Pour into a piping bag and refrigerate until ready to use.
+[Note: If you are using a muffin tin, you may want to add a little more sugar to the mix to keep it from sticking to your muffins.]
+To make the filling, combine all of the ingredients except for the sugar and water. Mix well until the mixture is smooth and creamy, about 5 to 7 minutes. Add the cinnamon sticks and stir to combine. Serve immediately.
+Original Instructions: ["Cut orange into 1/4-inch-thick rounds; cut rounds into 1/4-inch cubes. Place in heavy medium saucepan; add 3 cups water. Bring to boil. Reduce heat and simmer 10 minutes. Drain, rinse, and drain well. Boil again with 3 cups water; rinse and drain.", "Return orange cubes to same pan. Add 3/4 cup water, 1/2 cup sugar, and 1 cinnamon stick. Bring to boil, stirring until sugar dissolves. Boil gently until all liquid evaporates, about 30 minutes.", "Bring brown sugar, rum, vinegar, allspice, 1/4 cup water, and 1 cinnamon stick to boil in saucepan. Mix in cranberries. Cook until thick syrup forms, stirring occasionally, about 10 minutes. Mix in orange; cook 1 minute. Transfer chutney to small bowl; cool. (Can be made 2 days ahead. Cover; chill.)"]
+--------------------------------------------------
+
+--- Recipe 8 ---
+Prompt: Title: Tau Kua He Ci Medan'S Favourite Food ; Ingredients: ["Gravy ingredients", "garlic", "Gravy ingredients", "Gravy ingredients", "Gravy ingredients", "Gravy ingredients", "Gravy ingredients", "liters Gravy ingredients", "Gravy ingredients", "Gravy ingredients"]
+Generated Instructions: ]
+Ingredients: [1/2 cup water, 1/4 cup sugar, 2 teaspoons salt, and 1 teaspoon baking soda] Directions: Preheat oven to 350 degrees F. Line a baking sheet with parchment paper. In a large bowl, mix together the flour, sugar and salt. Add the water and mix well. Pour into the prepared baking dish. Bake for 20-25 minutes, or until golden brown. Remove from the oven and let cool completely before serving. Recipe Notes: If you want to make the sauce, you'll need to add a little more water to keep it from sticking to the bottom of the pan. You can add more if you'd like, but it's best to leave it at room temperature for a couple of minutes before adding it to your sauce. It's also good to let it sit in the fridge for at least an hour before you add it
+Original Instructions: ["The condiments:", "- Large prawns, fried in batter", "- Small blue swimming crab, fried in batter", "- small - medium size prawn, made into crackers", "- 1 bunch of morning glory, boil until ready", "- 200 gr bean sprout, blanched", "- make birds eye chilli sauce", "The Gravy :", "- Bring water to a boil, put all ingredients for gravy and continue to cooke for 10 minutes, simmer for another 1 hour or until the tomato is softened or the water has reduced to 2 - 2.5 L", "- Put the tomato stock back in the pot, add in the dissolved corn starch, mix well and bring back to a boil, the gravy now should thickened. If you prefer the gravy slightly runny use 2 tbsp of corn starch but if you wish thicker use 3 tbsp.", "- The gravy is now ready to use"]
+--------------------------------------------------
+
+--- Recipe 9 ---
+Prompt: Title: Jamaica Barbecue Sauce; Ingredients: ["cider vinegar", "lemon juice", "Worcestershire sauce", "brown sugar", "mustard", "salt", "tenderizer", "tomato catsup", "liquid smoke", "garlic powder", "cayenne pepper", "tomato puree"]
+Generated Instructions: ]
+
+Ingredients: [Cider Vinegar, Lemon Juice, Mustard, Tomato Puree, Salt, Garlic Powder, Pepper, and Peppermint Extract]
+
+
+Directions: Combine all ingredients in a small saucepan and bring to a boil. Reduce heat to low and simmer for 5 minutes. Remove from heat and allow to cool completely before serving.
+. . .
+ (Note: If you're not sure what you want to eat, you can always add more vinegar to the sauce, but it's not necessary.)
+, , , and then stir in all of the ingredients until everything is well combined. Serve immediately.
+Original Instructions: ["Mix ingredients well.", "Pour into jar.", "Keep in refrigerator until ready to use.", "Makes 1 3/4 pints."]
+--------------------------------------------------
+
+--- Recipe 10 ---
+Prompt: Title: Dill Dip; Ingredients: ["sour cream", "mayo", "parsley flakes", "onion", "Worcestershire sauce", "Accent", "season salt", "dill weed"]
+Generated Instructions: Directions: Preheat oven to 350 degrees F. In a large bowl, mix together flour, baking powder, salt, and baking soda. Mix until well combined, about 1/2 cup at a time. Pour into prepared baking dish. Bake for 20-25 minutes or until golden brown. Remove from oven and allow to cool completely. Serve immediately. Notes: This recipe is not for children under the age of 2.
+
+If you want to make this recipe, you can make it in advance and refrigerate until ready to serve.
+Original Instructions: ["Mix all ingredients together and chill overnight. Great with fresh vegetables."]
+--------------------------------------------------
+

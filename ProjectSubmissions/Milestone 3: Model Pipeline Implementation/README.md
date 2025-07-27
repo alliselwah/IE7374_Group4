@@ -9,8 +9,6 @@ Natural Language Processing (NLP), with a specific focus on Controlled Text Gene
 ## Dataset Description
 For this project, we primarily utilize the **RecipeNLG Dataset**, publicly available on Kaggle. This extensive dataset comprises approximately two million recipes, each richly detailed with a title, a list of ingredients (extracted as Named Entities, 'NER'), and comprehensive cooking instructions. Our focus is exclusively on these textual components, which are crucial for training generative language models. The data is provided in a convenient CSV format, facilitating straightforward parsing and manipulation within our data pipeline.
 
-**DOWNLOAD LINK DUE TO FILE BEING TOO LARGE:** [https://www.kaggle.com/datasets/saldenisov/recipenlg](https://www.kaggle.com/datasets/saldenisov/recipenlg)
-
 To get started, you must download `full_dataset.csv` from the RecipeNLG Kaggle page and place it into the `project-root/data/raw/` directory.
 
 ## Model Selection
@@ -29,44 +27,6 @@ These models are chosen for their proven capabilities in natural language genera
 
 ## Project Structure
 
-Okay, I understand. You want to update your README.md file with the specific content you've provided, which is essentially the "Project Title & Description" through "Model Usage and Reproduction" sections, but formatted as proper Markdown.
-
-This content is a mix of headings and paragraphs, some of which you previously had, but now needs to be combined and formatted correctly.
-
-Here's the Markdown content for your README.md based on your latest input:
-
-Markdown
-
-# Generative AI Recipe Creation Tool
-
-## Project Title & Description
-This project introduces a generative AI-powered tool designed to assist users in creating meal ideas from ingredients they already have at home. By simply inputting a list of grocery items, users receive one or more recipe suggestions that effectively incorporate those items. The system leverages natural language processing and advanced generative models to craft complete and coherent recipes, including titles, ingredients lists, step-by-step instructions, and potential preparation times. This tool aims to reduce food waste, save time, and inspire home cooking through the innovative application of artificial intelligence.
-
-## Final Topic Area
-Natural Language Processing (NLP), with a specific focus on Controlled Text Generation. The project's core involves generating simple, easy-to-make recipes based on natural language ingredient inputs. This process emphasizes sequence generation and semantic understanding, applying various NLP techniques such as tokenization, embedding, and leveraging transformer-based models for coherent and contextually relevant recipe outputs.
-
-## Dataset Description
-For this project, we primarily utilize the **RecipeNLG Dataset**, publicly available on Kaggle. This extensive dataset comprises approximately two million recipes, each richly detailed with a title, a list of ingredients (extracted as Named Entities, 'NER'), and comprehensive cooking instructions. Our focus is exclusively on these textual components, which are crucial for training generative language models. The data is provided in a convenient CSV format, facilitating straightforward parsing and manipulation within our data pipeline.
-
-**DOWNLOAD LINK DUE TO FILE BEING TOO LARGE:** [https://www.kaggle.com/datasets/saldenisov/recipenlg](https://www.kaggle.com/datasets/saldenisov/recipenlg)
-
-To get started, you must download `full_dataset.csv` from the RecipeNLG Kaggle page and place it into the `project-root/data/raw/` directory.
-
-## Model Selection
-We leverage state-of-the-art transformer-based generative language models from the Hugging Face Transformers library. Our selected models include:
-
-* GPT-2 (both PyTorch and TensorFlow implementations)
-* BART (PyTorch implementation for conditional generation)
-
-These models are chosen for their proven capabilities in natural language generation and their ability to produce coherent, contextually relevant text. We use pre-trained versions as a base and fine-tune them on the RecipeNLG dataset to adapt their generation capabilities specifically to the cooking domain.
-
-## Research Questions
-* How effective is a fine-tuned language model (e.g., GPT-2, BART) in generating complete, coherent, and practical recipes from a diverse list of grocery items?
-* To what extent can transformer-based models generalize to novel ingredient combinations or recipe types not explicitly encountered during their training on the RecipeNLG dataset?
-* How do different prompt structures (e.g., including cooking context, cuisine hints, or just raw ingredient lists) influence the quality, specificity, and creativity of the generated recipes?
-* (Planned Future Work) Does incorporating advanced techniques like ingredient embeddings or clustering (e.g., to understand "butter vs. margarine") improve semantic matching, ingredient substitution logic, and overall recipe quality?
-
-## Project Structure
 project-root/
 ├── src/
 │   ├── data_loader.py            # Loads and preprocesses the RecipeNLG dataset.
@@ -127,3 +87,6 @@ Key parameters to consider:
 ```bash
 python3 src/train.py
 
+Generating Recipes (model_runner.py)
+
+python3 src/model_runner.py
